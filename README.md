@@ -9,7 +9,7 @@ I am open to contributing to open-source projects and collaborating with the com
 ### 🔧 Technologies & Skills
 
 *   **Languages:** Java, Python
-*   **Web Development:** Full-Stack Development (MERN), React
+*   **Web Development:** Full-Stack Development (MERN), React, JavaScript
 *   **Databases:** SQL
 *   **Tools & Platforms:** Git, GitHub, VS Code
 
@@ -17,17 +17,13 @@ I am open to contributing to open-source projects and collaborating with the com
 
 ### ✨ My Projects
 
-Here are a few projects I've worked on.
+Here is a selection of projects I've built.
 
-| Project Name | Description | Technologies |
-| :--- | :--- | :--- |
-| **AES Encryption Tool** | A user-friendly desktop app to demonstrate AES encryption with a professional dark-themed UI. | Python, Tkinter |
-| **College Chatbot** | A rule-based chatbot to answer student queries by fetching data from a knowledge base. | Python, HTML |
-| **Expense Tracker** | A web application to track and categorize personal expenses, built with React. | React, JavaScript |
-
-➡️ [**Explore my AES Encryption Tool Repository**](https://github.com/sadiya595/PyAES-Visualizer)
-
-➡️ **Chatbot & Expense Tracker repositories coming soon!**
+| Project Name | Description | Technologies | Link |
+| :--- | :--- | :--- | :--- |
+| **Expense Analyzer** | A React web app to track, categorize, and visualize personal spending habits. | `React` `JavaScript` | [Code Repository](https://github.com/sadiya595/Expense-Analyzer) |
+| **AES Encryption Tool** | A user-friendly desktop app to demonstrate AES encryption with a professional dark-themed UI. | `Python` `Tkinter` | [Code Repository](https://github.com/sadiya595/PyAES-Visualizer) |
+| **College Chatbot** | A rule-based chatbot to answer student queries by fetching data from a knowledge base. | `Python` `HTML` | `Coming Soon` |
 
 ---
 

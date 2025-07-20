@@ -35,7 +35,7 @@ A desktop application that demystifies the Advanced Encryption Standard (AES) al
 
 Technologies: Python Tkinter
 
-Link: Code Repository
+Link: https://github.com/sadiya595/PyAES-Visualizer
 
 🤝 Open Source & Collaboration
 I am open to contributing to open-source projects and collaborating with the developer community. I believe in the power of shared knowledge to build better software for everyone.

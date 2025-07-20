@@ -21,7 +21,7 @@ The user interface is designed to be engaging and user-friendly, featuring a wel
 
 Technologies: Python Flask Scikit-learn NLTK HTML/CSS JavaScript
 
-Link: Code Repository
+Link: https://github.com/sadiya595/AcadBot
 
 📊 Expense Analyzer
 A dynamic web application that empowers users to track, categorize, and visualize their personal spending habits. The app features an intuitive interface for logging expenses and interactive charts to provide clear financial insights, helping users manage their budgets effectively.

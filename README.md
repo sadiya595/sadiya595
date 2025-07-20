@@ -4,13 +4,14 @@ I am a Software Engineering Student seeking a full-time SDE role. I'm passionate
 🔧 Technologies & Skills
 Languages: Java Python JavaScript
 
-Web & Backend: React Node.js Express.js HTML/CSS Flask
+Web & Backend: React Node.js HTML/CSS Flask
 
 Databases: SQL MongoDB
 
-Tools & Platforms: Git GitHub VS Code Docker
+Tools & Platforms: Git GitHub VS Code 
 
 ✨ My Projects
+
 Here is a selection of projects I've built.
 
 🤖 AcadBot - AI-Powered Campus Assistant

@@ -28,7 +28,7 @@ A dynamic web application that empowers users to track, categorize, and visualiz
 
 Technologies: React JavaScript Chart.js HTML/CSS
 
-Link: Code Repository
+Link: https://github.com/sadiya595/Expense-Analyzer
 
 🔒 PyAES Visualizer
 A desktop application that demystifies the Advanced Encryption Standard (AES) algorithm. It provides a user-friendly interface to encrypt and decrypt messages, visually demonstrating how changes in the key and input text affect the final ciphertext.

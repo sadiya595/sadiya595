@@ -39,19 +39,10 @@ Currently focusing on mastering **Java** and deepening my knowledge of **softwar
 
 ## 🚀 Featured Projects  
 
-### 🔒 [PyAES Visualizer](https://github.com/sadiya595/PyAES-Visualizer)  
-A desktop app that visually demonstrates AES encryption & decryption.  
-**Tech:** Java (coming soon), Python, Tkinter  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sadiya595&repo=PyAES-Visualizer&theme=radical)](https://github.com/sadiya595/PyAES-Visualizer)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sadiya595&repo=AcadBot&theme=radical)](https://github.com/sadiya595/AcadBot)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sadiya595&repo=Expense-Analyzer&theme=radical)](https://github.com/sadiya595/Expense-Analyzer)  
 
-### 🤖 [AcadBot](https://github.com/sadiya595/AcadBot)  
-AI-powered chatbot for campus-related queries with NLP pipeline.  
-**Tech:** Python, Flask, Scikit-learn, NLTK  
-
-### 📊 [Expense Analyzer](https://github.com/sadiya595/Expense-Analyzer)  
-Web app to track, categorize, and visualize personal spending.  
-**Tech:** React, JavaScript, Chart.js  
-
----
 
 ## 🌱 What I’m Up To  
 - 🔭 Sharpening my **Java + Data Structures & Algorithms** skills  

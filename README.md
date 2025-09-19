@@ -42,6 +42,8 @@ Currently focusing on mastering **Java** and deepening my knowledge of **softwar
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sadiya595&repo=PyAES-Visualizer&theme=radical)](https://github.com/sadiya595/PyAES-Visualizer)  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sadiya595&repo=AcadBot&theme=radical)](https://github.com/sadiya595/AcadBot)  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sadiya595&repo=Expense-Analyzer&theme=radical)](https://github.com/sadiya595/Expense-Analyzer)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sadiya595&repo=SmartEcoNet-AI-Energy-Optimization&theme=radical)](https://github.com/sadiya595/SmartEcoNet-AI-Energy-Optimization)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sadiya595&repo=AI-Resume-Parse&theme=radical)](https://github.com/sadiya595/AI-Resume-Parse) 
 
 
 ## 🌱 What I’m Up To  

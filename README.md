@@ -10,11 +10,8 @@ Currently focusing on mastering **Java** and deepening my knowledge of **softwar
 
 ![Sadiya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sadiya595&theme=react-dark)  
 
----
+---![GitHub stats](https://github-readme-stats.vercel.app/api?username=sadiya595&show_icons=true&theme=radical&count_private=true)
 
-## 🏆 GitHub Trophies  
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sadiya595&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15)  
 
 ---
 

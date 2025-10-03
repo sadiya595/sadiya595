@@ -38,13 +38,6 @@ Currently focusing on mastering **Java** and deepening my knowledge of **softwar
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sadiya595&repo=AI-Resume-Parse&theme=radical)](https://github.com/sadiya595/AI-Resume-Parse) 
 
 
-## 🌱 What I’m Up To  
-- 🔭 Sharpening my **Java + Data Structures & Algorithms** skills  
-- 🧑‍💻 Exploring **system design & backend development**  
-- 📚 Preparing myself for a **Software Engineer (SDE) role**  
-
----
-
 📫 Let’s Connect
 📧 noorsadiya464@gmail.com
 🔗 LinkedIn: www.linkedin.com/in/sadiyanoor-eng

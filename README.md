@@ -45,5 +45,7 @@ Currently focusing on mastering **Java** and deepening my knowledge of **softwar
 
 ---
 
-## 📫 Let’s Connect  
-📧 **noorsadiya464@gmail.com**  
+📫 Let’s Connect
+📧 noorsadiya464@gmail.com
+🔗 LinkedIn: www.linkedin.com/in/sadiyanoor-eng
+

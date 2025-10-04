@@ -1,5 +1,4 @@
-Always chasing what’s next in code, networks, and innovation.  
----
+**Always chasing what’s next in code, networks, and innovation.**
 
 ## 🌐 Connect with Me
 

@@ -1,12 +1,4 @@
-# 👋 Hi, I'm Sadiya Noor
-
----
-
-## 🚀 About Me
-
-Computer Science Engineering student specializing in IoT, Cybersecurity, and Blockchain technology.  
-Passionate about building practical software and continuously learning new skills.
-
+Always chasing what’s next in code, networks, and innovation.  
 ---
 
 ## 🌐 Connect with Me

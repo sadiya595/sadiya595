@@ -2,18 +2,17 @@
 
 ---
 
-## 💡 Who I Am
+## 🚀 About Me
 
-Passionate about coding in Java and exploring the potentials of AI and machine learning.  
-I like building things that work and keep learning every day.  
-Focused on software engineering principles, backend systems, and algorithms.
+Computer Science Engineering student specializing in IoT, Cybersecurity, and Blockchain technology.  
+Passionate about building practical software and continuously learning new skills.
 
 ---
 
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadiyanoor-eng)  
-📧 noorsadiya464@gmail.com  
+📧 noorsadiya464@gmail.com
 
 ---
 

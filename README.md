@@ -1,16 +1,7 @@
 # Hi, I'm Sadiya Noor 👋
 
-Passionate about coding in Java and exploring the potentials of AI and machine learning.
-
----
-
-## Achievements
-
-<!-- Replace placeholders with actual badge URLs from your achievement platforms -->
-![Tolo Badge](https://img.shields.io/badge/Achievement-Tolo-brightgreen)  
-![Pullshark Badge](https://img.shields.io/badge/Achievement-Pullshark-blueviolet)  
-![Quick Draw Badge](https://img.shields.io/badge/Achievement-Quick_Draw-orange)  
-
+Love working with Java and fascinated by the world of AI and machine learning.
+Building useful things and learning continuously drives me.
 ---
 
 ## 📊 GitHub Activity
@@ -66,5 +57,4 @@ LinkedIn: [linkedin.com/in/sadiyanoor-eng](https://www.linkedin.com/in/sadiyanoo
 
 ---
 
-**Tagline:**  
-I like building things that work and keep learning every day.
+

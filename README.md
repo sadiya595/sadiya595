@@ -1,12 +1,5 @@
 **Always chasing what’s next in code, networks, and innovation.**
 
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadiyanoor-eng)  
-📧 noorsadiya464@gmail.com
-
----
-
 ## 🛠️ Tech Stack  
 
 **Core Languages**  
@@ -32,8 +25,16 @@
 
 ---
 
-## 🥇 Most Used Languages
+# 🚀 Featured Projects  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadiya595&layout=compact&theme=radical)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sadiya595&repo=PyAES-Visualizer&theme=radical)](https://github.com/sadiya595/PyAES-Visualizer)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sadiya595&repo=AcadBot&theme=radical)](https://github.com/sadiya595/AcadBot)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sadiya595&repo=Expense-Analyzer&theme=radical)](https://github.com/sadiya595/Expense-Analyzer)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sadiya595&repo=SmartEcoNet-AI-Energy-Optimization&theme=radical)](https://github.com/sadiya595/SmartEcoNet-AI-Energy-Optimization)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sadiya595&repo=AI-Resume-Parse&theme=radical)](https://github.com/sadiya595/AI-Resume-Parse) 
 
----
+
+📫 Let’s Connect
+📧 noorsadiya464@gmail.com
+🔗 LinkedIn: www.linkedin.com/in/sadiyanoor-eng
+

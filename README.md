@@ -48,11 +48,6 @@ Building useful things and learning continuously drives me.
 
 ---
 
-## Contact
-
-Email: noorsadiya464@gmail.com  
-LinkedIn: [linkedin.com/in/sadiyanoor-eng](https://www.linkedin.com/in/sadiyanoor-eng)
-
----
-
-
+📫 Let’s Connect
+📧 noorsadiya464@gmail.com
+🔗 LinkedIn: www.linkedin.com/in/sadiyanoor-eng

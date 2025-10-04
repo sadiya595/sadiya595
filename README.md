@@ -1,49 +1,54 @@
-# Hi there, I'm Sadiya Noor 👋  
-🚀 Love working with Java and fascinated by the world of AI and machine learning.
-Building useful things and learning continuously drives me.
+# 👋 Hi, I'm Sadiya Noor
 
 ---
 
-## 📊 GitHub Activity  
+## 💡 Who I Am
 
-![Sadiya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sadiya595&theme=react-dark)  
+Passionate about coding in Java and exploring the potentials of AI and machine learning.  
+I like building things that work and keep learning every day.  
+Focused on software engineering principles, backend systems, and algorithms.
 
 ---
 
-## 🛠️ Tech Stack  
+## 🌐 Connect with Me
 
-**Core Languages**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadiyanoor-eng)  
+📧 noorsadiya464@gmail.com  
+
+---
+
+## 💻 Tech Stack
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-
-**Databases & Backend**  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-
-**Tools & Platforms**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
 
 ---
 
-## 🚀 Featured Projects  
+## 📊 GitHub Stats
 
-[![PyAES-Visualizer](https://github-readme-stats.vercel.app/api/pin/?username=sadiya595&repo=PyAES-Visualizer&theme=radical)](https://github.com/sadiya595/PyAES-Visualizer)  
-
-[![AcadBot](https://github-readme-stats.vercel.app/api/pin/?username=sadiya595&repo=AcadBot&theme=radical)](https://github.com/sadiya595/AcadBot)  
-
-[![Expense-Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=sadiya595&repo=Expense-Analyzer&theme=radical)](https://github.com/sadiya595/Expense-Analyzer)  
-
-[![SmartEcoNet-AI-Energy-Optimization](https://github-readme-stats.vercel.app/api/pin/?username=sadiya595&repo=SmartEcoNet-AI-Energy-Optimization&theme=radical)](https://github.com/sadiya595/SmartEcoNet-AI-Energy-Optimization)  
-
-[![AI-Resume-Parse](https://github-readme-stats.vercel.app/api/pin/?username=sadiya595&repo=AI-Resume-Parse&theme=radical)](https://github.com/sadiya595/AI-Resume-Parse)  
-**AI-Resume-Parse** - Machine learning tool for parsing and scoring resumes in hiring processes.
+![Sadiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadiya595&show_icons=true&theme=radical)
 
 ---
 
-📫 Let’s Connect
-📧 noorsadiya464@gmail.com
-🔗 LinkedIn: www.linkedin.com/in/sadiyanoor-eng
+## 🔥 GitHub Streak
+
+![Sadiya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sadiya595&theme=radical)
+
+---
+
+## 🥇 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadiya595&layout=compact&theme=radical)
+
+---
+
+## 💬 Random Quote
+
+> "An evolving system increases its complexity unless work is done to reduce it."  
+> — Manny Lehman (computer scientist)

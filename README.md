@@ -1,12 +1,12 @@
-# Hi, I'm Sadiya Noor 👋
-
-Love working with Java and fascinated by the world of AI and machine learning.
+# Hi there, I'm Sadiya Noor 👋  
+🚀 Love working with Java and fascinated by the world of AI and machine learning.
 Building useful things and learning continuously drives me.
+
 ---
 
 ## 📊 GitHub Activity  
 
-![Sadiya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sadiya595&theme=react-dark)
+![Sadiya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sadiya595&theme=react-dark)  
 
 ---
 
@@ -32,16 +32,12 @@ Building useful things and learning continuously drives me.
 ## 🚀 Featured Projects  
 
 [![PyAES-Visualizer](https://github-readme-stats.vercel.app/api/pin/?username=sadiya595&repo=PyAES-Visualizer&theme=radical)](https://github.com/sadiya595/PyAES-Visualizer)  
-**PyAES-Visualizer** - Visualizes AES encryption steps helping learn cryptography through Python.
 
 [![AcadBot](https://github-readme-stats.vercel.app/api/pin/?username=sadiya595&repo=AcadBot&theme=radical)](https://github.com/sadiya595/AcadBot)  
-**AcadBot** - NLP-powered chatbot assisting with academic queries and campus info.
 
 [![Expense-Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=sadiya595&repo=Expense-Analyzer&theme=radical)](https://github.com/sadiya595/Expense-Analyzer)  
-**Expense-Analyzer** - Web app for tracking and analyzing personal finances with charts.
 
 [![SmartEcoNet-AI-Energy-Optimization](https://github-readme-stats.vercel.app/api/pin/?username=sadiya595&repo=SmartEcoNet-AI-Energy-Optimization&theme=radical)](https://github.com/sadiya595/SmartEcoNet-AI-Energy-Optimization)  
-**SmartEcoNet-AI-Energy-Optimization** - AI solution optimizing smart home energy usage.
 
 [![AI-Resume-Parse](https://github-readme-stats.vercel.app/api/pin/?username=sadiya595&repo=AI-Resume-Parse&theme=radical)](https://github.com/sadiya595/AI-Resume-Parse)  
 **AI-Resume-Parse** - Machine learning tool for parsing and scoring resumes in hiring processes.

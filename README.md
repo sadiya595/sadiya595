@@ -46,8 +46,3 @@ Passionate about building practical software and continuously learning new skill
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadiya595&layout=compact&theme=radical)
 
 ---
-
-## 💬 Random Quote
-
-> "An evolving system increases its complexity unless work is done to reduce it."  
-> — Manny Lehman (computer scientist)

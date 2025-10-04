@@ -4,11 +4,9 @@ Love working with Java and fascinated by the world of AI and machine learning.
 Building useful things and learning continuously drives me.
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Activity  
 
-<div align="center">  
-  ![Sadiya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sadiya595&theme=react-dark&hide_border=true&area=true&count_private=true)  
-</div>
+![Sadiya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sadiya595&theme=react-dark)
 
 ---
 

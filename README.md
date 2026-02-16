@@ -25,14 +25,30 @@
 
 ---
 
-# 🚀 Featured Projects  
+## 🚀 Featured Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sadiya595&repo=PyAES-Visualizer&theme=radical)](https://github.com/sadiya595/PyAES-Visualizer)  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sadiya595&repo=AcadBot&theme=radical)](https://github.com/sadiya595/AcadBot)  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sadiya595&repo=Expense-Analyzer&theme=radical)](https://github.com/sadiya595/Expense-Analyzer)  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sadiya595&repo=SmartEcoNet-AI-Energy-Optimization&theme=radical)](https://github.com/sadiya595/SmartEcoNet-AI-Energy-Optimization)  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sadiya595&repo=AI-Resume-Parse&theme=radical)](https://github.com/sadiya595/AI-Resume-Parse) 
+### 🧠 AI Resume Parser
+🔹 Developed an automated resume parsing and job matching system  
+🔹 Tech Stack: Python, NLP, REST APIs  
+🔹 Reduced recruitment screening time by 50%  
+🔹 Implemented scalable data extraction and context-aware ranking  
+🔗 [View Project](https://github.com/YOUR_USERNAME/AI-Resume-Parse)
 
+---
+
+### 🤖 AcadBot – College FAQ Chatbot
+🔹 Built a chatbot for K.S. Institute of Technology  
+🔹 Tech Stack: Flask, NLTK, CSV-based retrieval  
+🔹 Designed without ML using keyword matching logic  
+🔗 [View Project](https://github.com/YOUR_USERNAME/AcadBot)
+
+---
+
+### 🛡️ Deepfake Detection System
+🔹 AI/ML-based solution for detecting deepfake images & videos  
+🔹 Tech Stack: CNN, OpenCV, TensorFlow/PyTorch  
+🔹 Focused on feature extraction and classification  
+🔗 [View Project](https://github.com/YOUR_USERNAME/Deepfake-Detection)
 
 📫 Let’s Connect
 📧 noorsadiya464@gmail.com

@@ -1,56 +1,111 @@
-**Always chasing what’s next in code, networks, and innovation.**
+<h1 align="center">
+  Hi, I'm Sadiya Noor 👩‍💻
+</h1>
 
-## 🛠️ Tech Stack  
+<h3 align="center">
+  AI Engineer • Backend Developer • Problem Solver
+</h3>
 
-**Core Languages**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-
-**Databases & Backend**  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-
-**Tools & Platforms**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Building+AI+that+solves+real+problems;Backend+Systems+%7C+NLP+%7C+ML;Always+chasing+what's+next+in+tech+%F0%9F%9A%80" />
+</p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🧠 About Me
 
-![Sadiya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sadiya595&theme=radical)
+- 🎓 BE Computer Science Engineer  
+- 🤖 Focused on AI/ML + Backend Systems  
+- 🛠️ Strong in Python, Java & system design  
+- 🚀 Building production-ready AI applications  
 
 ---
 
-## 🚀 Featured Projects
+## 🛠 Tech Arsenal
+
+### 👨‍💻 Languages
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
+![cpp](https://skillicons.dev/icons?i=cpp)
+
+### 🧩 Backend & Databases
+![Flask](https://skillicons.dev/icons?i=flask)
+![mysql](https://skillicons.dev/icons?i=mysql)
+![mongodb](https://skillicons.dev/icons?i=mongodb)
+
+### ⚙️ Tools
+![git](https://skillicons.dev/icons?i=git)
+![github](https://skillicons.dev/icons?i=github)
+![vscode](https://skillicons.dev/icons?i=vscode)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sadiya595&theme=radical&border_radius=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sadiya595&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiya595&layout=compact&theme=radical&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🚀 Featured AI Projects
 
 ### 🧠 AI Resume Parser
-🔹 Developed an automated resume parsing and job matching system  
-🔹 Tech Stack: Python, NLP, REST APIs  
-🔹 Reduced recruitment screening time by 50%  
-🔹 Implemented scalable data extraction and context-aware ranking  
-🔗 [View Project](https://github.com/sadiya595/AI-Resume-Parse)
+> Automated resume parsing & intelligent job matching system
+
+- Built using Python + NLP + REST APIs  
+- Reduced manual screening time by 50%  
+- Context-aware ranking engine  
+- Designed scalable extraction pipeline  
+
+🔗 https://github.com/sadiya595/AI-Resume-Parse
 
 ---
 
-### 🤖 AcadBot – College FAQ Chatbot
-🔹 Built a chatbot for K.S. Institute of Technology  
-🔹 Tech Stack: Flask, NLTK, CSV-based retrieval  
-🔹 Designed without ML using keyword matching logic  
-🔗 [View Project](https://github.com/sadiya595/AcadBot)
+### 🤖 AcadBot – Intelligent FAQ System
+> College chatbot built without heavy ML
+
+- Flask-based backend  
+- NLTK keyword extraction  
+- CSV-based retrieval architecture  
+- Designed optimized matching logic  
+
+🔗 https://github.com/sadiya595/AcadBot
 
 ---
 
-### 🛡️ Deepfake Detection System
-🔹 AI/ML-based solution for detecting deepfake images & videos  
-🔹 Tech Stack: CNN, OpenCV, TensorFlow/PyTorch  
-🔹 Focused on feature extraction and classification  
-🔗 [View Project](https://github.com/sadiya595/Deepfake-Detection)
+### 🛡 Deepfake Detection (AI/ML)
+> CNN-based system to detect manipulated media
 
-📫 Let’s Connect
-📧 noorsadiya464@gmail.com
-🔗 LinkedIn: www.linkedin.com/in/sadiyanoor-eng
+- Image feature extraction using OpenCV  
+- Deep learning classification model  
+- Team collaboration project  
+- Focused on model evaluation metrics  
 
+🔗 https://github.com/sadiya595/Deepfake-Detection
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/sadiya595/sadiya595/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+📧 noorsadiya464@gmail.com  
+🔗 https://www.linkedin.com/in/sadiyanoor-eng
+
+---
+
+<p align="center">
+  ⚡ “Code is not just written — it is engineered.”
+</p>

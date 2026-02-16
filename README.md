@@ -1,111 +1,118 @@
-<h1 align="center">
-  Hi, I'm Sadiya Noor 👩‍💻
-</h1>
-
-<h3 align="center">
-  AI Engineer • Backend Developer • Problem Solver
-</h3>
+<h1 align="center">Sadiya Noor 👩🏻‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Building+AI+that+solves+real+problems;Backend+Systems+%7C+NLP+%7C+ML;Always+chasing+what's+next+in+tech+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Machine+Learning+%7C+Backend+Systems;Building+things+that+actually+work;Learning.+Building.+Improving.+🚀" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sadiya595&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header"/>
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 BE Computer Science Engineer  
-- 🤖 Focused on AI/ML + Backend Systems  
-- 🛠️ Strong in Python, Java & system design  
-- 🚀 Building production-ready AI applications  
+- 🎓 B.E. Computer Science (IoT, Cyber Security & Blockchain)  
+- 📍 Bangalore, India  
+- 📊 CGPA: 8.7 / 10  
+- 🧪 Published research in Deepfake Detection (IJARCCE)  
+- 💻 Currently building ML systems & scalable backend applications  
+- ⚡ I like systems that are clean, efficient, and actually usable  
 
 ---
 
-## 🛠 Tech Arsenal
+## 🛠 Tech Stack
 
-### 👨‍💻 Languages
-![Python](https://skillicons.dev/icons?i=python)
-![Java](https://skillicons.dev/icons?i=java)
-![cpp](https://skillicons.dev/icons?i=cpp)
-
-### 🧩 Backend & Databases
-![Flask](https://skillicons.dev/icons?i=flask)
-![mysql](https://skillicons.dev/icons?i=mysql)
-![mongodb](https://skillicons.dev/icons?i=mongodb)
-
-### ⚙️ Tools
-![git](https://skillicons.dev/icons?i=git)
-![github](https://skillicons.dev/icons?i=github)
-![vscode](https://skillicons.dev/icons?i=vscode)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,react,js,mysql,mongodb,flask,git,github,vscode" />
+</p>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sadiya595&theme=radical&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=sadiya595&theme=tokyonight&border_radius=12" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadiya595&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiya595&layout=compact&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sadiya595&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiya595&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
-
----
-
-## 🚀 Featured AI Projects
-
-### 🧠 AI Resume Parser
-> Automated resume parsing & intelligent job matching system
-
-- Built using Python + NLP + REST APIs  
-- Reduced manual screening time by 50%  
-- Context-aware ranking engine  
-- Designed scalable extraction pipeline  
-
-🔗 https://github.com/sadiya595/AI-Resume-Parse
-
----
-
-### 🤖 AcadBot – Intelligent FAQ System
-> College chatbot built without heavy ML
-
-- Flask-based backend  
-- NLTK keyword extraction  
-- CSV-based retrieval architecture  
-- Designed optimized matching logic  
-
-🔗 https://github.com/sadiya595/AcadBot
-
----
-
-### 🛡 Deepfake Detection (AI/ML)
-> CNN-based system to detect manipulated media
-
-- Image feature extraction using OpenCV  
-- Deep learning classification model  
-- Team collaboration project  
-- Focused on model evaluation metrics  
-
-🔗 https://github.com/sadiya595/Deepfake-Detection
 
 ---
 
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/sadiya595/sadiya595/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/sadiya595/sadiya595/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🚀 Featured Projects
 
-📧 noorsadiya464@gmail.com  
-🔗 https://www.linkedin.com/in/sadiyanoor-eng
+### 🧠 AI Resume Parser
+> Intelligent resume parsing & job relevance scoring
+
+- Built with Python + spaCy  
+- Structured data extraction pipeline  
+- Rule-based matching against job descriptions  
+- Backend-focused architecture  
+
+🔗 https://github.com/sadiya595/AI-Resume-Parse
+
+---
+
+### 🛡 Deepfake Detection System
+> Vision Transformer + facial asymmetry analysis
+
+- Image preprocessing & feature engineering  
+- 87.2% classification accuracy  
+- Evaluated using precision, recall & confusion matrix  
+- Research-backed implementation  
+
+🔗 https://github.com/sadiya595/Deepfake-Detection
+
+---
+
+### ⚡ SmartEcoNet – AI Energy Optimization
+> ML-based appliance consumption analysis
+
+- Pattern detection & feature engineering  
+- Correlation-driven efficiency insights  
+- Streamlit dashboard deployment  
+
+🔗 https://github.com/sadiya595/SmartEcoNet-AI-Energy-Optimization
+
+---
+
+### 🤖 KSIT Virtual Assistant (AcadBot)
+> Flask-based intelligent FAQ system
+
+- Keyword-based retrieval architecture  
+- 90%+ response accuracy  
+- Logic optimization & testing  
+
+🔗 https://github.com/sadiya595/AcadBot
+
+---
+
+## 🌐 Let’s Connect
+
+<p align="center">
+  <a href="mailto:noorsadiya464@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/sadiyanoor-eng">LinkedIn</a>
+</p>
 
 ---
 
 <p align="center">
-  ⚡ “Code is not just written — it is engineered.”
+  <i>building quietly, improving daily ✨</i>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>

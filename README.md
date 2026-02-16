@@ -1,18 +1,5 @@
 <h1 align="center">Sadiya Noor 👩🏻‍💻</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Machine+Learning+%7C+Backend+Systems;Building+things+that+actually+work;Learning.+Building.+Improving.+🚀" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sadiya595&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header"/>
-
----
 
 ## 🧠 About Me
 

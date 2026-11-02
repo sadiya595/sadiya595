@@ -1,5 +1,6 @@
-# 💫 About Me:
-Hi, I'm Sadiya 👋<br><br>I'm a Software Engineer based in Bangalore, India, passionate about building scalable backend systems, full-stack applications, and AI-powered solutions. I enjoy turning ideas into practical software, writing clean and maintainable code, and continuously learning modern technologies.<br><br>🔭 I'm currently working on backend systems, full-stack web applications, and AI-powered projects while improving my system design and cloud skills.<br><br>👯 I'm looking to collaborate on open-source projects, developer tools, backend engineering, and AI/ML applications.<br><br>🤝 I'm looking for help with distributed systems, cloud architecture (AWS), Docker, Kubernetes, and contributing to large-scale open-source projects.<br><br>🌱 I'm currently learning System Design, Docker, AWS, Microservices, and advanced backend engineering.<br><br>💬 Ask me about Python, Java, React, REST APIs, MongoDB, Machine Learning, or software engineering in general.<br><br>⚡ Fun fact: If there's a repetitive task, I'll probably automate it.
+Hi, I'm Sadiya Noor 👋
+
+Computer Science graduate | Associate IT Consultant @ ITC Infotech | AI & Software Development
 
 
 ## 🌐 Socials:
